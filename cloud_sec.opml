@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>云原生安全指北list</title>
+        <ownerName>「云原生安全指北」公众号</ownerName>
+        <dateModified>2025-12-08T14:36:38.112Z</dateModified>
+    </head>
+    <body>
+        <outline text="云安全研究员" title="云安全研究员">
+            <outline text="The Grey Corner" title="The Grey Corner" type="rss" xmlUrl="https://thegreycorner.com/feed.xml" htmlUrl="https://thegreycorner.com/"></outline>
+            <outline text="Hacking The Cloud" title="Hacking The Cloud" type="rss" xmlUrl="https://hackingthe.cloud/feed_rss_created.xml" htmlUrl="https://hackingthe.cloud/"></outline>
+            <outline text="Raesene's Ramblings" title="Raesene's Ramblings" type="rss" xmlUrl="https://raesene.github.io/feed.xml" htmlUrl="https://raesene.github.io/"></outline>
+            <outline text="Chris Farris" title="Chris Farris" type="rss" xmlUrl="https://www.chrisfarris.com/rss.xml" htmlUrl="https://www.chrisfarris.com/"></outline>
+            <outline text="Christophe Tafani-Dereeper" title="Christophe Tafani-Dereeper" type="rss" xmlUrl="https://blog.christophetd.fr/feed/" htmlUrl="https://blog.christophetd.fr/"></outline>
+            <outline text="Nick Frichette - Blog" title="Nick Frichette - Blog" type="rss" xmlUrl="https://frichetten.com/blog/index.xml" htmlUrl="https://frichetten.com/blog/"></outline>
+            <outline text="Naor Haziz" title="Naor Haziz" type="rss" xmlUrl="https://naorhaziz.com/feed.xml" htmlUrl="https://naorhaziz.com/"></outline>
+            <outline text="Scott's Ramblings" title="Scott's Ramblings" type="rss" xmlUrl="https://blog.scottgerring.com/rss/" htmlUrl="https://blog.scottgerring.com/"></outline>
+            <outline text="Jason Umiker" title="Jason Umiker" type="rss" xmlUrl="https://medium.com/feed/@jason-umiker" htmlUrl="https://medium.com/@jason-umiker"></outline>
+            <outline text="Chris Brumm's Blog" title="Chris Brumm's Blog" type="rss" xmlUrl="https://chris-brumm.com/index.xml" htmlUrl="https://chris-brumm.com/"></outline>
+            <outline text="Sivanesh Ashok" title="Sivanesh Ashok" type="rss" xmlUrl="https://blog.stazot.com/rss/" htmlUrl="https://blog.stazot.com/"></outline>
+            <outline text="Mystic0x1" title="Mystic0x1" type="rss" xmlUrl="https://mystic0x1.github.io/feed.xml" htmlUrl="https://mystic0x1.github.io/"></outline>
+            <outline text="costaskou" title="costaskou" type="rss" xmlUrl="https://me.costaskou.com/atom.xml" htmlUrl="https://me.costaskou.com/atom.xml"></outline>
+            <outline text="emiliensocchi.io" title="emiliensocchi.io" type="rss" xmlUrl="https://www.emiliensocchi.io/subscribe/" htmlUrl="https://www.emiliensocchi.io/"></outline>
+            <outline text="Adventures in Containerland" title="Adventures in Containerland" type="rss" xmlUrl="https://blog.iainsmart.co.uk/index.xml" htmlUrl="https://blog.iainsmart.co.uk/"></outline>
+            <outline text="chesterlebron" title="chesterlebron" type="rss" xmlUrl="https://chesterlebron.blogspot.com/feeds/posts/default" htmlUrl="https://chesterlebron.blogspot.com/"></outline>
+            <outline text="CD's second night (CD的第二夜)" title="CD's second night (CD的第二夜)" type="rss" xmlUrl="https://www.cdxiaodong.life/rss/feed.xml" htmlUrl="https://www.cdxiaodong.life/"></outline>
+            <outline text="Twitter @BernKing" title="Twitter @BernKing" type="rss" xmlUrl="https://rsshub.app/twitter/user/bernking20" htmlUrl="https://x.com/bernKing20"></outline>
+            <outline text="Twitter @TeamsSix" title="Twitter @TeamsSix" type="rss" xmlUrl="https://rsshub.app/twitter/user/teamssix" htmlUrl="https://x.com/teamssix"></outline>
+            <outline text="Sapir Fedida (sapirxfed)" title="Sapir Fedida (sapirxfed)" type="rss" xmlUrl="https://www.dubito.top/feeds/sapirxfed.xml" htmlUrl="https://sapirxfed.com/blog-posts/"></outline>
+        </outline>
+        <outline text="云安全厂商" title="云安全厂商">
+            <outline text="Datadog Security Labs" title="Datadog Security Labs" type="rss" xmlUrl="https://securitylabs.datadoghq.com/rss/feed.xml" htmlUrl="https://securitylabs.datadoghq.com"></outline>
+            <outline text="Wiz Blog" title="Wiz Blog" type="rss" xmlUrl="https://www.wiz.io/feed/rss.xml" htmlUrl="https://www.wiz.io/"></outline>
+            <outline text="Unit 42 - Cloud Cybersecurity Research" title="Unit 42 - Cloud Cybersecurity Research" type="rss" xmlUrl="https://unit42.paloaltonetworks.com/category/cloud-cybersecurity-research/feed/" htmlUrl="https://unit42.paloaltonetworks.com/category/cloud-cybersecurity-research/"></outline>
+            <outline text="Aqua Blog" title="Aqua Blog" type="rss" xmlUrl="https://blog.aquasec.com/rss.xml" htmlUrl="https://blog.aquasec.com/"></outline>
+            <outline text="Sysdig Blog" title="Sysdig Blog" type="rss" xmlUrl="https://www.sysdig.com/blog/rss.xml" htmlUrl="https://www.sysdig.com/"></outline>
+            <outline text="HashiCorp Blog" title="HashiCorp Blog" type="rss" xmlUrl="https://www.hashicorp.com/blog/feed.xml" htmlUrl="https://hashicorp.com/blog"></outline>
+            <outline text="GitGuardian Blog" title="GitGuardian Blog" type="rss" xmlUrl="https://blog.gitguardian.com/rss/" htmlUrl="https://blog.gitguardian.com/"></outline>
+            <outline text="Orca Security Blog" title="Orca Security Blog" type="rss" xmlUrl="https://orca.security/resources/blog/feed/" htmlUrl="https://orca.security/"></outline>
+            <outline text="Sonrai Security" title="Sonrai Security" type="rss" xmlUrl="https://sonraisecurity.com/feed/" htmlUrl="https://sonraisecurity.com/"></outline>
+            <outline text="Tigera Blog" title="Tigera Blog" type="rss" xmlUrl="https://rsshub.app/rsshub/transform/html/https%3A%2F%2Fwww.tigera.io%2Fblog%2F%3F_sft_category%3Dtechnical-blog/item%3Ddiv%5Bclass%3D'post-content'%5D%20h3%5Bclass%3D'post-title'%5D%20a" htmlUrl="https://www.tigera.io/blog/?_sft_category=technical-blog"></outline>
+            <outline text="NetSPI Technical Blog" title="NetSPI Technical Blog" type="rss" xmlUrl="https://www.netspi.com/blog/technical-blog/feed/" htmlUrl="https://www.netspi.com/blog/technical-blog/"></outline>
+            <outline text="Permiso - Cloud Chronicles" title="Permiso - Cloud Chronicles" type="rss" xmlUrl="https://permiso.io/blog/rss.xml" htmlUrl="https://permiso.io/blog"></outline>
+            <outline text="Upwind" title="Upwind" type="rss" xmlUrl="https://www.upwind.io/feed/rss-feed/" htmlUrl="https://www.upwind.io/"></outline>
+            <outline text="Fog Security Blog" title="Fog Security Blog" type="rss" xmlUrl="https://www.fogsecurity.io/blog/rss.xml" htmlUrl="https://www.fogsecurity.io/"></outline>
+            <outline text="Plerion Cloud Security Blog" title="Plerion Cloud Security Blog" type="rss" xmlUrl="https://www.plerion.com/blog/rss.xml" htmlUrl="https://www.plerion.com/"></outline>
+            <outline text="BoostSecurity Blog" title="BoostSecurity Blog" type="rss" xmlUrl="https://boostsecurity.io/blog/rss.xml" htmlUrl="https://boostsecurity.io/blog"></outline>
+            <outline text="RAD Insights" title="RAD Insights" type="rss" xmlUrl="https://www.radsecurity.ai/blog/rss.xml" htmlUrl="https://www.radsecurity.ai/"></outline>
+            <outline text="SADA Engineering Blog" title="SADA Engineering Blog" type="rss" xmlUrl="https://engineering.sada.com/feed" htmlUrl="https://engineering.sada.com/"></outline>
+            <outline text="NVISO Labs" title="NVISO Labs" type="rss" xmlUrl="https://blog.nviso.eu/category/cloud-security/feed/" htmlUrl="https://blog.nviso.eu/category/cloud-security"></outline>
+            <outline text="Riptides Labs Blog" title="Riptides Labs Blog" type="rss" xmlUrl="https://riptides.io/blog-post/rss.xml" htmlUrl="https://riptides.io/blog"></outline>
+            <outline text="Binary Security AS" title="Binary Security AS" type="rss" xmlUrl="https://www.binarysecurity.no/feed.xml" htmlUrl="https://www.binarysecurity.no/posts/"></outline>
+            <outline text="RiskInsight" title="RiskInsight" type="rss" xmlUrl="https://www.riskinsight-wavestone.com/feed/" htmlUrl="https://www.riskinsight-wavestone.com/en/"></outline>
+            <outline text="Altered Security" title="Altered Security" type="rss" xmlUrl="https://www.alteredsecurity.com/blog-feed.xml" htmlUrl="https://www.alteredsecurity.com/blogs"></outline>
+            <outline text="Sweet Security" title="Sweet Security" type="rss" xmlUrl="https://www.dubito.top/feeds/sweet_security.xml" htmlUrl="https://www.sweet.security/blog"></outline>
+            <outline text="Armo Security (Kubescape)" title="Armo Security (Kubescape)" type="rss" xmlUrl="https://www.dubito.top/feeds/armosec.xml" htmlUrl="https://www.armosec.io/blog/"></outline>
+            <outline text="Uber Security Engineering" title="Uber Security Engineering" type="rss" xmlUrl="https://www.dubito.top/feeds/uber_sec.xml" htmlUrl="https://www.uber.com/en-AU/blog/engineering/security/"></outline>
+            <outline text="Blast Security" title="Blast Security" type="rss" xmlUrl="https://www.dubito.top/feeds/blast_security.xml" htmlUrl="https://blast.security/blog/"></outline>
+            <outline text="PwnedLabs Blog" title="PwnedLabs Blog" type="rss" xmlUrl="https://www.dubito.top/feeds/pwnedlabs.xml" htmlUrl="https://blog.pwnedlabs.io/all"></outline>
+            <outline text="Truffle Security" title="Truffle Security" type="rss" xmlUrl="https://www.dubito.top/feeds/trufflesecurity.xml" htmlUrl="https://trufflesecurity.com/blog"></outline>
+            <outline text="Stream Security" title="Stream Security" type="rss" xmlUrl="https://www.dubito.top/feeds/stream_security.xml" htmlUrl="https://www.stream.security/blog-category/cloud-detection-response"></outline>
+            <outline text="exaforce" title="exaforce" type="rss" xmlUrl="https://www.dubito.top/feeds/exaforce.xml" htmlUrl="https://www.exaforce.com/blog"></outline>
+            <outline text="trustoncloud" title="trustoncloud" type="rss" xmlUrl="https://www.dubito.top/feeds/trustoncloud.xml" htmlUrl="https://trustoncloud.com/blog/"></outline>
+        </outline>
+        <outline text="云安全官方/社区" title="云安全官方/社区">
+            <outline text="AWS Security Blog" title="AWS Security Blog" type="rss" xmlUrl="https://aws.amazon.com/blogs/security/feed/" htmlUrl="https://aws.amazon.com/blogs/security/"></outline>
+            <outline text="Google Cloud - Security &amp; Identity" title="Google Cloud - Security &amp; Identity" type="rss" xmlUrl="https://cloudblog.withgoogle.com/products/identity-security/rss/" htmlUrl="https://cloud.google.com/blog/products/identity-security/"></outline>
+            <outline text="Kubernetes Vulnerability Announcements" title="Kubernetes Vulnerability Announcements" type="rss" xmlUrl="https://kubernetes.io/docs/reference/issues-security/official-cve-feed/feed.xml" htmlUrl="https://kubernetes.io/docs/reference/issues-security/official-cve-feed/"></outline>
+            <outline text="CNCF Blog" title="CNCF Blog" type="rss" xmlUrl="https://rsshub.app/cncf" htmlUrl="https://www.cncf.io/blog/"></outline>
+            <outline text="CloudVulnDB" title="CloudVulnDB" type="rss" xmlUrl="https://www.cloudvulndb.org/rss/feed.xml" htmlUrl="https://www.cloudvulndb.org/"></outline>
+            <outline text="KCD-China bilibili 动态" title="KCD-China bilibili 动态" type="rss" xmlUrl="https://rsshub.app/bilibili/user/dynamic/1274679632" htmlUrl="https://space.bilibili.com/1274679632/dynamic"></outline>
+            <outline text="awesome-cloud-security Commits" title="awesome-cloud-security Commits" type="rss" xmlUrl="https://github.com/teamssix/awesome-cloud-security/commits.atom" htmlUrl="https://github.com/teamssix/awesome-cloud-security/commits/main"></outline>
+            <outline text="Forem Cloud Security" title="Forem Cloud Security" type="rss" xmlUrl="https://www.dubito.top/feeds/forem_cloud_sec.xml" htmlUrl="https://zeroday.forem.com/t/cloudsecurity"></outline>
+            <outline text="Dev.to Security" title="Dev.to Security" type="rss" xmlUrl="https://www.dubito.top/feeds/dev_to_cloud_sec.xml" htmlUrl="https://dev.to/t/security"></outline>
+        </outline>
+        <outline text="云安全媒体" title="云安全媒体">
+            <outline text="Last Week in AWS" title="Last Week in AWS" type="rss" xmlUrl="https://www.lastweekinaws.com/feed/" htmlUrl="https://www.lastweekinaws.com/"></outline>
+            <outline text="CloudSecList" title="CloudSecList" type="rss" xmlUrl="https://cloudseclist.com/feed.xml" htmlUrl="https://cloudseclist.com/"></outline>
+            <outline text="Cloud Security (Medium)" title="Cloud Security (Medium)" type="rss" xmlUrl="https://medium.com/feed/cloud-security" htmlUrl="https://medium.com/cloud-security"></outline>
+            <outline text="Appsecco" title="Appsecco" type="rss" xmlUrl="https://blog.appsecco.com/feed" htmlUrl="https://blog.appsecco.com/"></outline>
+            <outline text="Talkback Cloudsec" title="Talkback Cloudsec" type="rss" xmlUrl="https://talkback.sh/resources/feed/category/2/" htmlUrl="https://talkback.sh/resources/feed/category/2/"></outline>
+            <outline text="Security Café" title="Security Café" type="rss" xmlUrl="https://securitycafe.ro/category/cloud-security/feed/" htmlUrl="https://securitycafe.ro/"></outline>
+            <outline text="青藤云安全" title="青藤云安全" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/f35b2e0c0e9439b0085a851a1514a11c0ad89887.xml" htmlUrl="https://wechat2rss.xlab.app/feed/f35b2e0c0e9439b0085a851a1514a11c0ad89887.xml"></outline>
+            <outline text="青藤智库" title="青藤智库" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/1063f6d607a637eb0ddc129b58bd081820dd31cb.xml" htmlUrl="https://wechat2rss.xlab.app/feed/1063f6d607a637eb0ddc129b58bd081820dd31cb.xml"></outline>
+            <outline text="RainSec" title="RainSec" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/086e8d1d0035fb4418b3c2608f7166353e0628dc.xml" htmlUrl="https://wechat2rss.xlab.app/feed/086e8d1d0035fb4418b3c2608f7166353e0628dc.xml"></outline>
+            <outline text="Blu Raven Academy" title="Blu Raven Academy" type="rss" xmlUrl="https://academy.bluraven.io/rss.xml" htmlUrl="https://academy.bluraven.io/"></outline>
+            <outline text="Cloud-Native Security Archives" title="Cloud-Native Security Archives" type="rss" xmlUrl="https://cloudnativenow.com/category/topics/cloudnativesecurity/feed/" htmlUrl="https://cloudnativenow.com/category/topics/cloudnativesecurity/"></outline>
+            <outline text="Grounded Cloud Security" title="Grounded Cloud Security" type="rss" xmlUrl="https://groundedcloudsecurity.substack.com/feed" htmlUrl="https://groundedcloudsecurity.substack.com/"></outline>
+            <outline text="Cloud Threat Landscape" title="Cloud Threat Landscape" type="rss" xmlUrl="https://www.wiz.io/api/feed/cloud-threat-landscape/rss.xml" htmlUrl="https://threats.wiz.io/"></outline>
+            <outline text="AWS Security Digest" title="AWS Security Digest" type="rss" xmlUrl="https://www.dubito.top/feeds/awssecuritydigest.xml" htmlUrl="https://awssecuritydigest.com/articles"></outline>
+        </outline>
+    </body>
+</opml>
