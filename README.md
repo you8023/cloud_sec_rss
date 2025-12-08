@@ -1,4 +1,4 @@
-本仓库开源「云原生安全指北」公众号收集的云安全相关的RSS订阅源（欢迎关注公众号），若您有新的原创云安全内容订阅源，欢迎提PR ^_^
+本仓库开源「云原生安全指北」公众号收集的云安全相关的RSS订阅源（欢迎关注公众号），若您有新的原创云安全内容RSS订阅源，欢迎提PR ^_^
 
 > 注：本RSS订阅源集合参考了[喵苗安全开源的RSS订阅源](https://github.com/miao2sec/awesome-cloud-native-security/blob/main/RSS%20%E8%AE%A2%E9%98%85%E6%BA%90/README.md)、[CD大佬公开的订阅源](https://www.cdxiaodong.life/follow)，在此表示感谢！
 
@@ -195,6 +195,7 @@ Feed：https://rsshub.app/twitter/user/teamssix
 Feed：https://www.dubito.top/feeds/sapirxfed.xml
 
 介绍：安全研究员 Sapir Fedida 的个人博客，主要分享云环境下的漏洞挖掘细节与研究成果。
+
 备注：该RSS为自建源，每小时更新一次。
 
 ### 2. 厂商实验室与企业博客
@@ -416,6 +417,7 @@ Feed：https://www.alteredsecurity.com/blog-feed.xml
 Feed：https://www.dubito.top/feeds/sweet_security.xml
 
 介绍：Sweet Security 官方博客，专注于云运行时安全以及云端检测与响应。
+
 备注：该RSS为自建源，可能存在日期错误。
 
 
@@ -426,6 +428,7 @@ Feed：https://www.dubito.top/feeds/sweet_security.xml
 Feed：https://www.dubito.top/feeds/armosec.xml
 
 介绍：开源工具 Kubescape 及其背后的 ARMO 公司的博客，深入探讨 Kubernetes 的合规性、错误配置与安全加固。
+
 备注：该RSS为自建源，每小时更新一次。
 
 
@@ -436,6 +439,7 @@ Feed：https://www.dubito.top/feeds/armosec.xml
 Feed：https://www.dubito.top/feeds/uber_sec.xml
 
 介绍：Uber 工程团队的安全专栏，经常分享在大规模微服务架构下的身份验证、访问控制及基础设施安全实践。
+
 备注：该RSS为自建源，可能存在日期错误。
 
 
@@ -446,6 +450,7 @@ Feed：https://www.dubito.top/feeds/uber_sec.xml
 Feed：https://www.dubito.top/feeds/blast_security.xml
 
 介绍：专注于 SaaS 安全与日志分析的厂商博客，提供关于现代事件响应（IR）和威胁检测的见解。
+
 备注：该RSS为自建源，每小时更新一次。
 
 
@@ -456,6 +461,7 @@ Feed：https://www.dubito.top/feeds/blast_security.xml
 Feed：https://www.dubito.top/feeds/pwnedlabs.xml
 
 介绍：云安全实战靶场 PwnedLabs 的官方博客，发布最新的云攻防演练场景解析和技术教程。
+
 备注：该RSS为自建源，可能存在日期错误。
 
 
@@ -466,6 +472,7 @@ Feed：https://www.dubito.top/feeds/pwnedlabs.xml
 Feed：https://www.dubito.top/feeds/trufflesecurity.xml
 
 介绍：开源工具 TruffleHog 的官方博客，专注于解决代码库中的密钥泄露和软件供应链风险。
+
 备注：该RSS为自建源，每小时更新一次。
 
 
@@ -476,6 +483,7 @@ Feed：https://www.dubito.top/feeds/trufflesecurity.xml
 Feed：https://www.dubito.top/feeds/stream_security.xml
 
 介绍：Stream Security博客，专注于云检测与响应（CDR）技术及实时攻击路径建模。
+
 备注：该RSS为自建源，每小时更新一次。
 
 
@@ -486,6 +494,7 @@ Feed：https://www.dubito.top/feeds/stream_security.xml
 Feed：https://www.dubito.top/feeds/exaforce.xml
 
 介绍：Exaforce 官方博客，专注于云原生数据安全、AI 安全以及复杂云环境下的资产保护。
+
 备注：该RSS为自建源，每小时更新一次。
 
 
@@ -496,6 +505,7 @@ Feed：https://www.dubito.top/feeds/exaforce.xml
 Feed：https://www.dubito.top/feeds/trustoncloud.xml
 
 介绍：TrustOnCloud 官方博客，专注于云服务（AWS/Azure/GCP）的深度威胁建模与安全控制评估。
+
 备注：该RSS为自建源，每小时更新一次。
 
 ### 3. 官方公告与社区动态
@@ -573,6 +583,7 @@ Feed：https://github.com/teamssix/awesome-cloud-security/commits.atom
 Feed：https://www.dubito.top/feeds/forem_cloud_sec.xml
 
 介绍：ZeroDay 开发者社区中关于“云安全”话题的讨论版块聚合，汇集了来自社区的技术分享和探讨。
+
 备注：该RSS为自建源，每小时更新一次。
 
 
@@ -583,6 +594,7 @@ Feed：https://www.dubito.top/feeds/forem_cloud_sec.xml
 Feed：https://www.dubito.top/feeds/dev_to_cloud_sec.xml
 
 介绍：知名开发者社区 Dev.to 的安全标签页聚合，包含大量开发者视角的云原生安全实战文章和教程。
+
 备注：该RSS为自建源（增加了云标签筛选）
 
 ### 4. 资讯聚合与媒体
@@ -714,4 +726,5 @@ Feed：https://www.wiz.io/api/feed/cloud-threat-landscape/rss.xml
 Feed：https://www.dubito.top/feeds/awssecuritydigest.xml
 
 介绍：一个专门聚合 AWS 安全相关新闻、深度文章和社区工具的 Newsletter，是追踪 AWS 生态安全动态的优质信息源。
+
 备注：该RSS为自建源，每小时更新一次。
