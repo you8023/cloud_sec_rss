@@ -4,9 +4,9 @@
 
 ## 使用方式
 
-若您使用folo作为RSS阅读器，可直接关注列表：https://app.folo.is/share/lists/149725751079030784
+若您使用folo作为RSS阅读器，可直接订阅列表：https://app.folo.is/share/lists/149725751079030784
 
-若您使用其他RSS订阅器，直接下载仓库中的opml后缀文件，导入即可。
+若您使用其他RSS订阅器，下载仓库中的opml后缀文件，导入即可。
 
 ## RSS订阅源列表
 
