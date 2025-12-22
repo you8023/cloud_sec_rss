@@ -63,6 +63,7 @@
             <outline text="trustoncloud" title="trustoncloud" type="rss" xmlUrl="https://www.dubito.top/feeds/trustoncloud.xml" htmlUrl="https://trustoncloud.com/blog/"></outline>
             <outline text="dazesecurity" title="dazesecurity" type="rss" xmlUrl="https://www.dubito.top/feeds/dazesecurity.xml" htmlUrl="https://dazesecurity.io/blog"></outline>
             <outline text="offensai" title="offensai" type="rss" xmlUrl="https://www.dubito.top/feeds/offensai.xml" htmlUrl="https://www.offensai.com/blog"></outline>
+            <outline text="minimus" title="minimus" type="rss" xmlUrl="https://www.dubito.top/feeds/minimus.xml" htmlUrl="https://www.minimus.io/blog"></outline>
         </outline>
         <outline text="云安全官方/社区" title="云安全官方/社区">
             <outline text="AWS Security Blog" title="AWS Security Blog" type="rss" xmlUrl="https://aws.amazon.com/blogs/security/feed/" htmlUrl="https://aws.amazon.com/blogs/security/"></outline>
