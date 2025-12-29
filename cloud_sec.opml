@@ -27,6 +27,7 @@
             <outline text="Twitter @BernKing" title="Twitter @BernKing" type="rss" xmlUrl="https://rsshub.app/twitter/user/bernking20" htmlUrl="https://x.com/bernKing20"></outline>
             <outline text="Twitter @TeamsSix" title="Twitter @TeamsSix" type="rss" xmlUrl="https://rsshub.app/twitter/user/teamssix" htmlUrl="https://x.com/teamssix"></outline>
             <outline text="Sapir Fedida (sapirxfed)" title="Sapir Fedida (sapirxfed)" type="rss" xmlUrl="https://www.dubito.top/feeds/sapirxfed.xml" htmlUrl="https://sapirxfed.com/blog-posts/"></outline>
+            <outline text="Dubito" title="Dubito" type="rss" xmlUrl="https://blog.dubito.top/tags/%E4%BA%91%E5%AE%89%E5%85%A8/rss.xml" htmlUrl="https://blog.dubito.top/tags/%E4%BA%91%E5%AE%89%E5%85%A8/"></outline>
         </outline>
         <outline text="云安全厂商" title="云安全厂商">
             <outline text="Datadog Security Labs" title="Datadog Security Labs" type="rss" xmlUrl="https://securitylabs.datadoghq.com/rss/feed.xml" htmlUrl="https://securitylabs.datadoghq.com"></outline>

@@ -10,11 +10,11 @@
 
 ## RSS订阅源列表
 
-云安全RSS订阅源列表如下，共78个（持续更新中）：
+云安全RSS订阅源列表如下，共79个（持续更新中）：
 
 ### 1. 个人安全研究员与技术专家
 
-该类别包含20个RSS订阅源：
+该类别包含21个RSS订阅源：
 
 **The Grey Corner**
 - 地址：https://thegreycorner.com/
@@ -116,6 +116,11 @@
 - Feed：https://www.dubito.top/feeds/sapirxfed.xml
 - 介绍：安全研究员 Sapir Fedida 的个人博客，主要分享云环境下的漏洞挖掘细节与研究成果。
 - 备注：该RSS为自建源，每小时更新一次。
+
+**Dubito**
+- 地址：https://blog.dubito.top/tags/%E4%BA%91%E5%AE%89%E5%85%A8/
+- Feed：https://blog.dubito.top/tags/%E4%BA%91%E5%AE%89%E5%85%A8/rss.xml
+- 介绍：安全研究员 Dubito 的个人博客，「云原生安全指北」公众号作者。
 
 ### 2. 厂商实验室与企业博客
 
