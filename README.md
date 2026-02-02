@@ -10,11 +10,11 @@
 
 ## RSS订阅源列表
 
-云安全RSS订阅源列表如下，共79个（持续更新中）：
+云安全RSS订阅源列表如下，共82个（持续更新中）：
 
 ### 1. 个人安全研究员与技术专家
 
-该类别包含21个RSS订阅源：
+该类别包含23个RSS订阅源：
 
 **The Grey Corner**
 - 地址：https://thegreycorner.com/
@@ -121,6 +121,17 @@
 - 地址：https://blog.dubito.top/tags/%E4%BA%91%E5%AE%89%E5%85%A8/
 - Feed：https://blog.dubito.top/tags/%E4%BA%91%E5%AE%89%E5%85%A8/rss.xml
 - 介绍：安全研究员 Dubito 的个人博客，「云原生安全指北」公众号作者。
+
+**Graham Helton**
+- 地址：https://grahamhelton.com/blog
+- Feed：https://www.dubito.top/feeds/grahamhelton.xml
+- 介绍：安全研究员 Graham Helton 的个人博客，主要分享进攻性安全（Offensive Security）、Kubernetes 渗透测试技巧以及云安全工具的开发与研究。
+- 备注：该RSS为自建源，每小时更新一次。
+
+**Hausec**
+- 地址：https://hausec.com
+- Feed：https://hausec.com/feed/
+- 介绍：安全博主 Hausec 的技术博客，专注于红队作战（Red Teaming）、域渗透（Active Directory）安全、Azure 漏洞利用及相关渗透测试备忘单（Cheatsheets）的分享。
 
 ### 2. 厂商实验室与企业博客
 
@@ -366,7 +377,7 @@
 
 ### 4. 资讯聚合与媒体
 
-该类别包含14个RSS订阅源：
+该类别包含15个RSS订阅源：
 
 **Last Week in AWS**
 - 地址：https://www.lastweekinaws.com/
@@ -433,8 +444,12 @@
 - Feed：https://www.wiz.io/api/feed/cloud-threat-landscape/rss.xml
 - 介绍：Wiz 维护的云威胁情报实时动态。
 
-**AWS Security Digest**
+**AWS Security Digest Articles**
 - 地址：https://awssecuritydigest.com/articles
 - Feed：https://www.dubito.top/feeds/awssecuritydigest.xml
-- 介绍：一个专门聚合 AWS 安全相关新闻、深度文章和社区工具的 Newsletter，是追踪 AWS 生态安全动态的优质信息源。
-- 备注：该RSS为自建源，每小时更新一次。
+- 介绍：一个专门聚合 AWS 安全相关新闻、深度文章和社区工具的 Newsletter，是追踪 AWS 生态安全动态的优质信息源(该源为文章)。
+
+**AWS Security Digest Weekly**
+- 地址：https://awssecuritydigest.com/past-issues
+- Feed：https://awssecuritydigest.com/feed.xml
+- 介绍：一个专门聚合 AWS 安全相关新闻、深度文章和社区工具的 Newsletter，是追踪 AWS 生态安全动态的优质信息源(该源为周刊)。

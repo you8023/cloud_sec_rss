@@ -28,6 +28,8 @@
             <outline text="Twitter @TeamsSix" title="Twitter @TeamsSix" type="rss" xmlUrl="https://rsshub.app/twitter/user/teamssix" htmlUrl="https://x.com/teamssix"></outline>
             <outline text="Sapir Fedida (sapirxfed)" title="Sapir Fedida (sapirxfed)" type="rss" xmlUrl="https://www.dubito.top/feeds/sapirxfed.xml" htmlUrl="https://sapirxfed.com/blog-posts/"></outline>
             <outline text="Dubito" title="Dubito" type="rss" xmlUrl="https://blog.dubito.top/tags/%E4%BA%91%E5%AE%89%E5%85%A8/rss.xml" htmlUrl="https://blog.dubito.top/tags/%E4%BA%91%E5%AE%89%E5%85%A8/"></outline>
+            <outline text="grahamhelton" title="grahamhelton" type="rss" xmlUrl="https://www.dubito.top/feeds/grahamhelton.xml" htmlUrl="https://grahamhelton.com/blog"></outline>
+            <outline text="hausec" title="hausec" type="rss" xmlUrl="https://hausec.com/feed/" htmlUrl=""></outline>
         </outline>
         <outline text="云安全厂商" title="云安全厂商">
             <outline text="Datadog Security Labs" title="Datadog Security Labs" type="rss" xmlUrl="https://securitylabs.datadoghq.com/rss/feed.xml" htmlUrl="https://securitylabs.datadoghq.com"></outline>
@@ -92,6 +94,7 @@
             <outline text="Grounded Cloud Security" title="Grounded Cloud Security" type="rss" xmlUrl="https://groundedcloudsecurity.substack.com/feed" htmlUrl="https://groundedcloudsecurity.substack.com/"></outline>
             <outline text="Cloud Threat Landscape" title="Cloud Threat Landscape" type="rss" xmlUrl="https://www.wiz.io/api/feed/cloud-threat-landscape/rss.xml" htmlUrl="https://threats.wiz.io/"></outline>
             <outline text="AWS Security Digest" title="AWS Security Digest" type="rss" xmlUrl="https://www.dubito.top/feeds/awssecuritydigest.xml" htmlUrl="https://awssecuritydigest.com/articles"></outline>
+            <outline text="AWS Security Digest Weekly" title="AWS Security Digest Weekly" type="rss" xmlUrl="https://awssecuritydigest.com/feed.xml" htmlUrl="https://awssecuritydigest.com/articles"></outline>
         </outline>
     </body>
 </opml>
