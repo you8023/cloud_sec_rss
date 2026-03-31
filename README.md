@@ -10,7 +10,7 @@
 
 ## RSS订阅源列表
 
-云安全RSS订阅源列表如下，共82个（持续更新中）：
+云安全RSS订阅源列表如下，共83个（持续更新中）：
 
 ### 1. 个人安全研究员与技术专家
 
@@ -135,7 +135,7 @@
 
 ### 2. 厂商实验室与企业博客
 
-该类别包含35个RSS订阅源：
+该类别包含36个RSS订阅源：
 
 **Datadog Security Labs**
 - 地址：https://securitylabs.datadoghq.com
@@ -322,6 +322,12 @@
 - 地址：https://www.minimus.io/blog
 - Feed：https://www.dubito.top/feeds/minimus.xml
 - 介绍：Minimus官方博客，专注于容器安全、镜像安全。
+- 备注：该RSS为自建源，每小时更新一次。
+
+**juliet**
+- 地址：https://juliet.sh/blog
+- Feed：https://www.dubito.top/feeds/juliet.xml
+- 介绍：Juliet官方技术博客，专注于k8s安全。
 - 备注：该RSS为自建源，每小时更新一次。
 
 ### 3. 官方公告与社区动态
