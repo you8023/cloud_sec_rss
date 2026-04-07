@@ -10,7 +10,7 @@
 
 ## RSS订阅源列表
 
-云安全RSS订阅源列表如下，共83个（持续更新中）：
+云安全RSS订阅源列表如下，共86个（持续更新中）：
 
 ### 1. 个人安全研究员与技术专家
 
@@ -135,7 +135,7 @@
 
 ### 2. 厂商实验室与企业博客
 
-该类别包含36个RSS订阅源：
+该类别包含38个RSS订阅源：
 
 **Datadog Security Labs**
 - 地址：https://securitylabs.datadoghq.com
@@ -330,9 +330,20 @@
 - 介绍：Juliet官方技术博客，专注于k8s安全。
 - 备注：该RSS为自建源，每小时更新一次。
 
+**varonis_cloud_sec**
+- 地址：https://www.varonis.com/blog/tag/cloud-security
+- Feed：https://www.dubito.top/feeds/varonis_cloud_sec.xml
+- 介绍：Varonis 官方博客的 Cloud Security 标签页订阅。
+- 备注：该RSS为自建源，每小时更新一次。
+
+**unit42**
+- 地址：https://www.paloaltonetworks.com/blog/
+- Feed：https://unit42.paloaltonetworks.com/feed/
+- 介绍：Palo Alto Networks Unit 42 官方博客全站订阅。
+
 ### 3. 官方公告与社区动态
 
-该类别包含9个RSS订阅源：
+该类别包含10个RSS订阅源：
 
 **AWS Security Blog**
 - 地址：https://aws.amazon.com/blogs/security/
@@ -380,6 +391,11 @@
 - Feed：https://www.dubito.top/feeds/dev_to_cloud_sec.xml
 - 介绍：知名开发者社区 Dev.to 的安全标签页聚合，包含大量开发者视角的云原生安全实战文章和教程。
 - 备注：该RSS为自建源（增加了云标签筛选）
+
+**hackaws**
+- 地址：https://hackaws.cloud
+- Feed：https://hackaws.cloud/feed.xml
+- 介绍：聚焦 AWS 云安全攻防与渗透测试内容的技术博客。
 
 ### 4. 资讯聚合与媒体
 

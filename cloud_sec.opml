@@ -68,6 +68,8 @@
             <outline text="offensai" title="offensai" type="rss" xmlUrl="https://www.dubito.top/feeds/offensai.xml" htmlUrl="https://www.offensai.com/blog"></outline>
             <outline text="minimus" title="minimus" type="rss" xmlUrl="https://www.dubito.top/feeds/minimus.xml" htmlUrl="https://www.minimus.io/blog"></outline>
             <outline text="juliet" title="juliet" type="rss" xmlUrl="https://www.dubito.top/feeds/juliet.xml" htmlUrl="https://juliet.sh/blog"></outline>
+            <outline text="varonis_cloud_sec" title="varonis_cloud_sec" type="rss" xmlUrl="https://www.dubito.top/feeds/varonis_cloud_sec.xml" htmlUrl="https://www.varonis.com/blog/tag/cloud-security"></outline>
+            <outline text="unit42" title="unit42" type="rss" xmlUrl="https://unit42.paloaltonetworks.com/feed/" htmlUrl="https://www.paloaltonetworks.com/blog/"></outline>
         </outline>
         <outline text="云安全官方/社区" title="云安全官方/社区">
             <outline text="AWS Security Blog" title="AWS Security Blog" type="rss" xmlUrl="https://aws.amazon.com/blogs/security/feed/" htmlUrl="https://aws.amazon.com/blogs/security/"></outline>
@@ -79,6 +81,7 @@
             <outline text="awesome-cloud-security Commits" title="awesome-cloud-security Commits" type="rss" xmlUrl="https://github.com/teamssix/awesome-cloud-security/commits.atom" htmlUrl="https://github.com/teamssix/awesome-cloud-security/commits/main"></outline>
             <outline text="Forem Cloud Security" title="Forem Cloud Security" type="rss" xmlUrl="https://www.dubito.top/feeds/forem_cloud_sec.xml" htmlUrl="https://zeroday.forem.com/t/cloudsecurity"></outline>
             <outline text="Dev.to Security" title="Dev.to Security" type="rss" xmlUrl="https://www.dubito.top/feeds/dev_to_cloud_sec.xml" htmlUrl="https://dev.to/t/security"></outline>
+            <outline text="hackaws" title="hackaws" type="rss" xmlUrl="https://hackaws.cloud/feed.xml" htmlUrl="https://hackaws.cloud"></outline>
         </outline>
         <outline text="云安全媒体" title="云安全媒体">
             <outline text="Last Week in AWS" title="Last Week in AWS" type="rss" xmlUrl="https://www.lastweekinaws.com/feed/" htmlUrl="https://www.lastweekinaws.com/"></outline>
