@@ -70,6 +70,7 @@
             <outline text="juliet" title="juliet" type="rss" xmlUrl="https://www.dubito.top/feeds/juliet.xml" htmlUrl="https://juliet.sh/blog"></outline>
             <outline text="varonis_cloud_sec" title="varonis_cloud_sec" type="rss" xmlUrl="https://www.dubito.top/feeds/varonis_cloud_sec.xml" htmlUrl="https://www.varonis.com/blog/tag/cloud-security"></outline>
             <outline text="unit42" title="unit42" type="rss" xmlUrl="https://unit42.paloaltonetworks.com/feed/" htmlUrl="https://www.paloaltonetworks.com/blog/"></outline>
+            <outline text="ClearData" title="ClearData" type="rss" xmlUrl="https://www.dubito.top/feeds/cleardata.xml" htmlUrl="https://www.cleardata.com/blog/"></outline>
         </outline>
         <outline text="云安全官方/社区" title="云安全官方/社区">
             <outline text="AWS Security Blog" title="AWS Security Blog" type="rss" xmlUrl="https://aws.amazon.com/blogs/security/feed/" htmlUrl="https://aws.amazon.com/blogs/security/"></outline>

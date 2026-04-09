@@ -10,7 +10,7 @@
 
 ## RSS订阅源列表
 
-云安全RSS订阅源列表如下，共86个（持续更新中）：
+云安全RSS订阅源列表如下，共87个（持续更新中）：
 
 ### 1. 个人安全研究员与技术专家
 
@@ -135,7 +135,7 @@
 
 ### 2. 厂商实验室与企业博客
 
-该类别包含38个RSS订阅源：
+该类别包含39个RSS订阅源：
 
 **Datadog Security Labs**
 - 地址：https://securitylabs.datadoghq.com
@@ -340,6 +340,12 @@
 - 地址：https://www.paloaltonetworks.com/blog/
 - Feed：https://unit42.paloaltonetworks.com/feed/
 - 介绍：Palo Alto Networks Unit 42 官方博客全站订阅。
+
+**ClearData**
+- 地址：https://www.cleardata.com/blog/
+- Feed：https://www.dubito.top/feeds/cleardata.xml
+- 介绍：ClearData 官方博客，关注医疗行业云安全、合规与风险管理实践。
+- 备注：该RSS为自建源，每小时更新一次。
 
 ### 3. 官方公告与社区动态
 
