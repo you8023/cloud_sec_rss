@@ -10,11 +10,11 @@
 
 ## RSS订阅源列表
 
-云安全RSS订阅源列表如下，共87个（持续更新中）：
+云安全RSS订阅源列表如下，共88个（持续更新中）：
 
 ### 1. 个人安全研究员与技术专家
 
-该类别包含23个RSS订阅源：
+该类别包含24个RSS订阅源：
 
 **The Grey Corner**
 - 地址：https://thegreycorner.com/
@@ -132,6 +132,11 @@
 - 地址：https://hausec.com
 - Feed：https://hausec.com/feed/
 - 介绍：安全博主 Hausec 的技术博客，专注于红队作战（Red Teaming）、域渗透（Active Directory）安全、Azure 漏洞利用及相关渗透测试备忘单（Cheatsheets）的分享。
+
+**engseclabs**
+- 地址：https://engseclabs.com/blog/
+- Feed：https://engseclabs.com/feed/
+- 介绍：安全工程师 Alex Smolen 的技术博客，主要关注AWS安全、安全开发。
 
 ### 2. 厂商实验室与企业博客
 
