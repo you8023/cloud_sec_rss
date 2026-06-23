@@ -10,11 +10,11 @@
 
 ## RSS订阅源列表
 
-云安全RSS订阅源列表如下，共88个（持续更新中）：
+云安全RSS订阅源列表如下，共89个（持续更新中）：
 
 ### 1. 个人安全研究员与技术专家
 
-该类别包含24个RSS订阅源：
+该类别包含25个RSS订阅源：
 
 **The Grey Corner**
 - 地址：https://thegreycorner.com/
@@ -137,6 +137,11 @@
 - 地址：https://engseclabs.com/blog/
 - Feed：https://engseclabs.com/feed/
 - 介绍：安全工程师 Alex Smolen 的技术博客，主要关注AWS安全、安全开发。
+
+**dirkjanm**
+- 地址：https://dirkjanm.io
+- Feed：https://dirkjanm.io/feed.xml
+- 介绍：安全工程师 Dirk-jan Mollema 的技术博客，主要关注Azure安全。
 
 ### 2. 厂商实验室与企业博客
 

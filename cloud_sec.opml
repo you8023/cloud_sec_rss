@@ -31,6 +31,7 @@
             <outline text="grahamhelton" title="grahamhelton" type="rss" xmlUrl="https://www.dubito.top/feeds/grahamhelton.xml" htmlUrl="https://grahamhelton.com/blog"></outline>
             <outline text="hausec" title="hausec" type="rss" xmlUrl="https://hausec.com/feed/" htmlUrl="https://hausec.com/"></outline>
             <outline text="engseclabs" title="engseclabs" type="rss" xmlUrl="https://engseclabs.com/feed" htmlUrl="https://engseclabs.com/blog/"></outline>
+            <outline text="dirkjanm" title="dirkjanm" type="rss" xmlUrl="https://dirkjanm.io/feed.xml" htmlUrl="https://dirkjanm.io"></outline>
         </outline>
         <outline text="云安全厂商" title="云安全厂商">
             <outline text="Datadog Security Labs" title="Datadog Security Labs" type="rss" xmlUrl="https://securitylabs.datadoghq.com/rss/feed.xml" htmlUrl="https://securitylabs.datadoghq.com"></outline>
